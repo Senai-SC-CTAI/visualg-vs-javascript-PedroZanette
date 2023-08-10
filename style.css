@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(95, 182, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(45deg, cyan, yellow);
    
-    background-size: cover;
-    text-align: center;
+   text-align: center;
 }
 h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 h2{
     text-align: center;
@@ -25,4 +25,5 @@ button:hover{
     font-size: 20px;
     color: black;
     background-color: rgb(139, 230, 87);
+    
 }
